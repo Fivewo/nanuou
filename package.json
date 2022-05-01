@@ -1,0 +1,17 @@
+{
+  "name": "nanuou",
+  "version": "1.0.0",
+  "description": "Freshman entry Guide",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-beta.39",
+    "vuepress": "^2.0.0-beta.39"
+  }
+}
